@@ -1,4 +1,4 @@
-#!/bin.sh
+#!/bin/sh
 
 JAVA_HOME=/usr/bin
 BASEPATH=/app/xtorm/test/COM_MoveDatabase_20221027
